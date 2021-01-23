@@ -62,7 +62,7 @@ The final report includes each of the following:
 
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
-### Math Scores by Grade\*\*
+### Math Scores by Grade
 
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
