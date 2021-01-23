@@ -10,8 +10,9 @@ In this assignment, I looked at data containing multiple school data such as bud
 A folder called PyCitySchools
 
 Inside of the folder, following are added:
-A new file called PyCitySchools_starter.ipynb. This is the jupyter notebook to run the analysis. The jupyter note book also mentions the observable trends based on the data.
-A "Resources" folder that contains the CSV files I used. 
+* A file called PyCitySchools_starter.ipynb. This is the jupyter notebook that has the code to run the analysis. 
+* The jupyter note book also mentions the observable trends based on the data analysis
+* A "Resources" folder that contains the CSV files I used. 
 
 ## Instructions Followed
 
@@ -74,3 +75,14 @@ The final report includes each of the following:
 * Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
   * Average Reading Score
+  * % Passing Math (The percentage of students that passed math.)
+  * % Passing Reading (The percentage of students that passed reading.)
+  * % Overall Passing (The percentage of students that passed math **and** reading.)
+
+### Scores by School Size
+
+* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+
+### Scores by School Type
+
+* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
